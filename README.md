@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá 👋! Meu nome é Francisco Gasperini
+### Sou um aprendiz de Tecnologia da Informação em Florianópolis - SC - Brasil
 
-<!--
-**jm1fenix/jm1fenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📁 PORTFÓLIO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Portfólio](https://img.shields.io/badge/Portfolio-E4405F?style=for-the-badge&logo=portfolio&logoColor=white)](https://jm1fenix.github.io/portfolio_2k25/)
+
+---
+
+## 🌐 Social
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gasperini_francis/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/francisco-gasperini)
+
+---
