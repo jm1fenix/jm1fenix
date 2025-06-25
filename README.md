@@ -1,5 +1,5 @@
 # Olá 👋! Meu nome é Francisco Gasperini
-### Sou um aprendiz de Tecnologia da Informação em Florianópolis - SC - Brasil
+### Sou um estudante de Gestão da Tecnologia da Informação em Florianópolis - SC - Brasil
 
 ---
 
